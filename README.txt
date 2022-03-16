@@ -1,0 +1,3 @@
+This project aims to analyze pollution in Comunidad de Madrid by means of jupyter notebooks and gathering the collected observations up to date from "portal de datos abiertos" the information regarding the monitoring stations at several locations within the region.
+
+The full body of code is devoted to analyze the data for a teaching project from I.E.S Las Musas in Madrid, whose goal is the introduction of young students into science projects
